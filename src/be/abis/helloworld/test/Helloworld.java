@@ -12,7 +12,7 @@ public class Helloworld {
 		Scanner readName = new Scanner(System.in);
 		System.out.println("Enter your name: ");
 		name = readName.next();
-		System.out.println ("Hello " +name);
+		System.out.println ("Hello " +name); 
 	}
 
 }
